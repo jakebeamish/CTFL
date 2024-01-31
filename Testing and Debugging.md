@@ -1,0 +1,6 @@
+[[Testing]] and [[debugging]] are separate activities. [[Testing]] can trigger [[Failure|failures]] that are caused by [[Defect|defects]] in the software ([[dynamic testing]]) or can directly find defects in the [[test object]] ([[static testing]]). When [[dynamic testing]] (see chapter 4) triggers a [[failure]], [[debugging]] is concerned with finding causes of this [[failure]] ([[Defect|defects]]), analysing these causes, and eliminating them. The typical [[debugging]] process in this case involves:
+- Reproduction of a [[failure]]
+- Diagnosis (finding the [[root cause]])
+- Fixing the cause
+
+Subsequent [[confirmation testing]] checks whether the fixes resolved the problem. Preferably, [[confirmation testing]] is done by the same person who performed the initial test. Subsequent [[regression testing]] can also be performed, to check whether the fixes are causing [[Failure|failures]] in other parts of the [[test object]] (see section 2.2.3 for more information on [[confirmation testing]] and [[regression testing]]). When [[static testing]] identifies a [[defect]], [[debugging]] is concerned with removing it. There is no need for reproduction or diagnosis, since [[static testing]] directly finds defects, and cannot cause failures (see chapter 3).
