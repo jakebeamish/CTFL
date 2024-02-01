@@ -1,12 +1,12 @@
 The typical test objectives are:
-- Evaluating work products such as [[Requirement|requirements]], [[User story|user stories]], designs, and code
-- Triggering [[Failure|failures]] and finding [[Defect|defects]]
-- Ensuring required [[Coverage|coverage]] of a [[test object]]
-- Reducing the level of [[Risk|risk]] of inadequate software [[quality]]
-- Verifying whether specified [[Requirement|requirements]] have been fulfilled
-- Verifying that a [[test object]] complies with contractual, legal, and regulatory requirements
+- Evaluating work products such as [requirements](Requirement.md), [user stories](User%20story.md), designs, and code
+- Triggering [failures](Failure.md) and finding [defects](Defect.md)
+- Ensuring required [coverage](Coverage.md) of a [Test object](Test%20object.md)
+- Reducing the level of [risk](Risk.md) of inadequate software [Quality](Quality.md)
+- Verifying whether specified [requirements](Requirement.md) have been fulfilled
+- Verifying that a [Test object](Test%20object.md) complies with contractual, legal, and regulatory requirements
 - Providing information to stakeholders to allow them to make informed decisions
-- Building confidence in the [[Quality|quality]] of the [[test object]]
-- Validating whether the [[test object]] is complete and works as expected by the stakeholders
+- Building confidence in the [quality](Quality.md) of the [Test object](Test%20object.md)
+- Validating whether the [Test object](Test%20object.md) is complete and works as expected by the stakeholders
  
-Objectives of [[testing]] can vary, depending upon the context, which includes the work product being tested, the test level, risks, the [[software development lifecycle]] being followed, and factors related to the business context, e.g., corporate structure, competitive considerations, or time to market.
+Objectives of [Testing](Testing.md) can vary, depending upon the context, which includes the work product being tested, the test level, risks, the [Software Development Lifecycle](Software%20Development%20Lifecycle.md) being followed, and factors related to the business context, e.g., corporate structure, competitive considerations, or time to market.

@@ -1,1 +1,1 @@
-> A type of change-related [[testing]] to detect whether [[Defect|defects]] have been introduced or uncovered in unchanged areas of the software.
+> A type of change-related [Testing](Testing.md) to detect whether [defects](Defect.md) have been introduced or uncovered in unchanged areas of the software.

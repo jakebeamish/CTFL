@@ -1,1 +1,1 @@
-> The process of finding, analyzing and removing the causes of [[Failure|failures]] in a component or system.
+> The process of finding, analyzing and removing the causes of [failures](Failure.md) in a component or system.
