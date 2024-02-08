@@ -1,1 +1,1 @@
-The activity that identifies [[Test condition|test conditions]] by analysing the test basis.
+The activity that identifies [test conditions](Test%20condition.md) by analysing the test basis.

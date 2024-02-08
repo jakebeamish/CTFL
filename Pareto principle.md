@@ -4,9 +4,9 @@ aliases:
   - 80/20 rule
   - law of the vital few
 ---
-The [[Pareto principle]] states that for many outcomes, roughly 80% of consequences come from 20% of causes (the 'vital few').
+The [Pareto principle](Pareto%20principle.md) states that for many outcomes, roughly 80% of consequences come from 20% of causes (the 'vital few').
 
-[Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft") noted that by fixing the top 20% of the most-reported [[Defect|bugs]], 80% of the related errors and crashes in a given system would be eliminated.
+[Microsoft](https://en.wikipedia.org/wiki/Microsoft "Microsoft") noted that by fixing the top 20% of the most-reported [bugs](Defect.md), 80% of the related errors and crashes in a given system would be eliminated.
 
 Lowell Arthur expressed that "20% of the code has 80% of the errors. Find them, fix them!"
 

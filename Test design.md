@@ -1,1 +1,1 @@
-The activity that derives and specifies test cases from [[Test condition|test conditions]].
+The activity that derives and specifies test cases from [test conditions](Test%20condition.md).

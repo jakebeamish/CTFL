@@ -5,6 +5,6 @@ aliases:
   - test requirement
   - test conditions
 ---
-A testable aspect of a component or system identified as a basis for [[Testing|testing]].
+A testable aspect of a component or system identified as a basis for [testing](Testing.md).
 
 Reference: After ISO 29119-1

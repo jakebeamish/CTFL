@@ -1,1 +1,1 @@
-The activity that prepares the [[testware]] needed for [[Test execution|test execution]] based on [[Test analysis|test analysis]] and [[Test design|design]].
+The activity that prepares the [Testware](Testware.md) needed for [test execution](Test%20execution.md) based on [test analysis](Test%20analysis.md) and [design](Test%20design.md).
