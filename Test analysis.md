@@ -1,0 +1,1 @@
+The activity that identifies [[Test condition|test conditions]] by analysing the test basis.

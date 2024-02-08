@@ -1,0 +1,1 @@
+The activity that prepares the [[testware]] needed for [[Test execution|test execution]] based on [[Test analysis|test analysis]] and [[Test design|design]].

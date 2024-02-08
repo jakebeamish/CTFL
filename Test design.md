@@ -1,0 +1,1 @@
+The activity that derives and specifies test cases from [[Test condition|test conditions]].

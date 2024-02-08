@@ -1,0 +1,1 @@
+An approach that involves a process of [[Early testing saves time and money|testing early]], testing often, test everywhere, and automate to obtain feedback on the business risks associated with a software release candidate as rapidly as possible.

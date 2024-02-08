@@ -1,0 +1,1 @@
+There is no single universally applicable approach to [[Testing|testing]]. Testing is done differently in different contexts (Kaner 2011).
