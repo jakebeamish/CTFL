@@ -1,0 +1,9 @@
+> In this syllabus, two principal roles in testing are covered: a test management role and a testing role. The activities and tasks assigned to these two roles depend on factors such as the project and product context, the skills of the people in the roles, and the organisation.
+> 
+> The test management role takes overall responsibility for the test process, test team and leadership of the test activities. The test management role is mainly focused on the activities of [[Test planning|test planning]], [[Test monitoring|test monitoring]] and [[Test control|control]] and [[Test completion|test completion]]. The way in which the test management role is carried out varies depending on the context. For example, in Agile software development, some of the test management tasks may be handled by the Agile team. Tasks that span multiple teams or the entire organisation may be performed by test managers outside of the development team.
+> 
+> The testing role takes overall responsibility for the engineering (technical) aspect of testing. The testing role is mainly focused on the activities of [[Test analysis|test analysis]], [[Test design|test design]], [[Test implementation|test implementation]] and [[Test execution|test execution]].
+> 
+> Different people may take on these roles at different times. For example, the test management role can be performed by a team leader, by a test manager, by a development manager, etc. It is also possible for one person to take on the roles of testing and test management at the same time.[^1]
+
+[^1]: Certified Tester Foundation Level Syllabus (v4.0). April 21, 2023. ISTQB. Retrieved from https://www.istqb.org/certifications/certified-tester-foundation-level.

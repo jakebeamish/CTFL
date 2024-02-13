@@ -4,6 +4,6 @@ aliases:
   - test rig
   - test environment
 ---
-An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test.
-Reference: ISO 24765
-Synonyms: test bed, test rig
+> An environment containing hardware, instrumentation, simulators, software tools, and other support elements needed to conduct a test.[^1]
+
+[^1]: Standard Glossary of Terms used in Software Testing (v4.2.1). Jan 31, 2024. ISTQB. Retrieved from https://glossary.istqb.org/. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).

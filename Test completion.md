@@ -1,1 +1,3 @@
-The activity that makes [testware](Testware.md) available for later use, leaves [test environments](Test%20environment.md) in a satisfactory condition and communicates the results of testing to relevant stakeholders.
+> The activity that makes [testware](Testware.md) available for later use, leaves [test environments](Test%20environment.md) in a satisfactory condition and communicates the results of testing to relevant stakeholders.[^1]
+
+[^1]: Standard Glossary of Terms used in Software Testing (v4.2.1). Jan 31, 2024. ISTQB. Retrieved from https://glossary.istqb.org/. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).

@@ -9,4 +9,4 @@ The typical test objectives are:
 - Building confidence in the [quality](Quality.md) of the [Test object](Test%20object.md)
 - Validating whether the [Test object](Test%20object.md) is complete and works as expected by the stakeholders
  
-Objectives of [Testing](Testing.md) can vary, depending upon the context, which includes the work product being tested, the test level, risks, the [Software Development Lifecycle](Software%20Development%20Lifecycle.md) being followed, and factors related to the business context, e.g., corporate structure, competitive considerations, or time to market.
+Objectives of [Testing](Testing.md) can vary, depending upon the context, which includes the work product being tested, the test level, risks, the [Software Development Lifecycle](Software%20Development%20Lifecycle.md) being followed, and factors related to the business context, e.g., corporate structure, Certified Tester Foundation Level Syllabus (v4.0). April 21, 2023. ISTQB. Retrieved from https://www.istqb.org/certifications/certified-tester-foundation-level.competitive considerations, or time to market.
