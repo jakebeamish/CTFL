@@ -1,3 +1,3 @@
-> The activity of establishing or updating a [Test plan](Test%20plan.md).[^1]
+> An approach to software development in which the test cases are designed and implemented before the associated component or system is developed.[^1]
 
 [^1]: Standard Glossary of Terms used in Software Testing (v4.2.1). Jan 31, 2024. ISTQB. Retrieved from https://glossary.istqb.org/. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).

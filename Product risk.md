@@ -1,4 +1,4 @@
-> A [[Risk|risk]] that impacts the [[Quality|quality]] of a product.[^1]
+> A [risk](Risk.md) that impacts the [quality](Quality.md) of a product.[^1]
 
 
 A factor that could result in a work product that doesn't satisfy stated and implied needs of its stakeholders.

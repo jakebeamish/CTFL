@@ -1,7 +1,7 @@
 >While being generic, the following skills are particularly relevant for testers:
 >- Testing knowledge (to increase effectiveness of testing, e.g., by using test techniques)
 >- Thoroughness, carefulness, curiosity, attention to details, being methodical (to identify defects, especially the ones that are difficult to find)
->- Good communication skills, active listening, being a team player (to interact effectively with all stakeholders, to convey information to others, to be understood, and to report and discuss [[Defect|defects]])
+>- Good communication skills, active listening, being a team player (to interact effectively with all stakeholders, to convey information to others, to be understood, and to report and discuss [defects](Defect.md))
 >- Analytical thinking, critical thinking, creativity (to increase effectiveness of testing)
 >- Technical knowledge (to increase efficiency of testing, e.g., by using appropriate test tools)
 >- Domain knowledge (to be able to understand and to communicate with end users/business representatives)
