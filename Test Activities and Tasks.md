@@ -1,4 +1,4 @@
-A test process usually consists of the main groups of activities described below. Although many of these activities may appear to follow a logical sequence, they are often implemented iteratively or in parallel. These testing activities usually need to be tailored to the system and the project.
+A [Test process](Test%20process.md) usually consists of the main groups of activities described below. Although many of these activities may appear to follow a logical sequence, they are often implemented iteratively or in parallel. These testing activities usually need to be tailored to the system and the project.
 
 [Test planning](Test%20planning.md) consists of defining the [objectives](Test%20objectives.md) and then selecting an [approach](Test%20approach.md) that best achieves the [objectives](Test%20objectives.md) within the constraints imposed by the overall context. Test planning is further explained in section 5.1.
 
