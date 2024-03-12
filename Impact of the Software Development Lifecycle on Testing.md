@@ -1,7 +1,7 @@
 
 > Testing must be adapted to the [SDLC](Software%20Development%20Lifecycle.md) to succeed. The choice of the [SDLC](Software%20Development%20Lifecycle.md) impacts on the:
 >
->- Scope and timing of test activities (e.g., test levels and [[test types]])
+>- Scope and timing of test activities (e.g., test levels and [Test Types](Test%20Types.md))
 >- Level of detail of test documentation
 >- Choice of test techniques and [test approach](Test%20approach.md)
 >- Extent of test automation

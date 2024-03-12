@@ -8,7 +8,7 @@ Maintenance testing is
 > There are different categories of maintenance, it can be corrective, adaptive to changes in the environment or improve performance or maintainability (see ISO/IEC 14764 for details), so maintenance can involve planned releases/deployments and unplanned releases/deployments (hot fixes). Impact analysis may be done before a change is made, to help decide if the change should be made, based on the potential consequences in other areas of the system. Testing the changes to a system in production includes both evaluating the success of the implementation of the change and the checking for possible regressions in parts of the system that remain unchanged (which is usually most of the system).
 >
 > The scope of maintenance testing typically depends on:
-> - The degree of [[risk]] of the change
+> - The degree of [Risk](Risk.md) of the change
 > - The size of the existing system
 > - The size of the change
 >
