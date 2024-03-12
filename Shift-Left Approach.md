@@ -5,7 +5,7 @@
 > - Writing test cases before the code is written and have the code run in a test harness during code implementation
 > - Using [CI](Continuous%20Integration.md) and even better CD as it comes with fast feedback and automated component tests to accompany source code when it is submitted to the code repository
 > - Completing static analysis of source code prior to [Dynamic testing](Dynamic%20testing.md), or as part of an automated process
-> - Performing non-functional testing starting at the component test level, where possible. This is a form of shift-left as these non-functional test types tend to be performed later in the [SDLC](Software%20Development%20Lifecycle.md) when a complete system and a representative [Test environment](Test%20environment.md) are available
+> - Performing [[non-functional testing]] starting at the component test level, where possible. This is a form of shift-left as these non-functional test types tend to be performed later in the [SDLC](Software%20Development%20Lifecycle.md) when a complete system and a representative [Test environment](Test%20environment.md) are available
 >
 > A shift-left approach might result in extra training, effort and/or cost earlier in the process but is expected to save efforts and/or costs later in the process.
 > 
