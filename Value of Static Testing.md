@@ -1,0 +1,9 @@
+> [Static testing](Static%20testing.md) can detect [defects](Defect.md) in the earliest phases of the [SDLC](Software%20Development%20Lifecycle.md), fulfilling the [principle of early testing](Early%20testing%20saves%20time%20and%20money.md) (see section 1.3). It can also identify [defects](Defect.md) which cannot be detected by [Dynamic testing](Dynamic%20testing.md) (e.g., unreachable code, design patterns not implemented as desired, [defects](Defect.md) in non-executable work products).
+>
+> [Static testing](Static%20testing.md) provides the ability to evaluate the [Quality](Quality.md) of, and to build confidence in work products. By verifying the documented requirements, the stakeholders can also make sure that these requirements describe their actual needs. Since [Static testing](Static%20testing.md) can be performed early in the [SDLC](Software%20Development%20Lifecycle.md), a shared understanding can be created among the involved stakeholders. Communication will also be improved between the involved stakeholders. For this reason, it is recommended to involve a wide variety of stakeholders in [Static testing](Static%20testing.md).
+>
+> Even though reviews can be costly to implement, the overall project costs are usually much lower than when no reviews are performed because less time and effort need to be spent on fixing [defects](Defect.md) later in the project.
+>
+> Code defects can be detected using static analysis more efficiently than in [Dynamic testing](Dynamic%20testing.md), usually resulting in both fewer code [defects](Defect.md) and a lower overall development effort.[^1]
+
+[^1]: Certified Tester Foundation Level Syllabus (v4.0). April 21, 2023. ISTQB. Retrieved from https://www.istqb.org/certifications/certified-tester-foundation-level.

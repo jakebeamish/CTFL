@@ -1,0 +1,5 @@
+> Early and frequent feedback allows for the early communication of potential [Quality](Quality.md) problems. If there is little stakeholder involvement during the [SDLC](Software%20Development%20Lifecycle.md), the product being developed might not meet the stakeholder's original or current vision. A failure to deliver what the stakeholder wants can result in costly rework, missed deadlines, blame games, and might even lead to complete project failure.
+> 
+> Frequent stakeholder feedback throughout the [SDLC](Software%20Development%20Lifecycle.md) can prevent misunderstandings about requirements and ensure that changes to requirements are understood and implemented earlier. This helps the development team to improve their understanding of what they are building. It allows them to focus on those features that deliver the most value to the stakeholder and that have the most positive impact on identified [risks](Risk.md).[^1]
+
+[^1]: Certified Tester Foundation Level Syllabus (v4.0). April 21, 2023. ISTQB. Retrieved from https://www.istqb.org/certifications/certified-tester-foundation-level.

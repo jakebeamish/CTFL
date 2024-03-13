@@ -1,8 +1,9 @@
 
 
-| [Functional testing](Functional%20testing.md)                                | [Non-functional testing](Non-functional%20testing.md)         | [Black-box testing](Black-box%20test%20technique%5C) | [White-box testing](White-box%20test%20technique%5C) |
-| ----------------------------------------------------- | ---------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| Evaluate the functions that the system should perform | Evaluate how well the system works | Evaluate the system against the specification   | Evaluate the internal structure of the system   |
+| [Functional testing](Functional%20testing.md)         | [Non-functional testing](Non-functional%20testing.md) | [Black-box testing](Black-box%20test%20technique.md) | [White-box testing](White-box%20test%20technique.md) |
+| ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| Evaluate the functions that the system should perform | Evaluate how well the system works                    | Evaluate the system against the specification        | Evaluate the internal structure of the system        |
+|                                                       |                                                       |                                                      |                                                      |
 
 
 

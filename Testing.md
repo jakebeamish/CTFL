@@ -11,7 +11,7 @@ aliases:
 
 See also: [Test objectives](Test%20objectives.md) and [Testing Principles](Testing%20Principles.md)
 
-> Testing may be dynamic or static. [Dynamic testing](Dynamic%20testing.md) involves the execution of software, while [Static testing](Static%20testing.md) does not. [Static testing](Static%20testing.md) includes reviews and static analysis. [Dynamic testing](Dynamic%20testing.md) uses different types of test techniques and test approaches to derive test cases.
+> Testing may be dynamic or static. [Dynamic testing](Dynamic%20testing.md) involves the execution of software, while [Static testing](Static%20testing.md) does not. [Static testing](Static%20testing.md) includes [reviews](Review.md) and static analysis. [Dynamic testing](Dynamic%20testing.md) uses different types of test techniques and test approaches to derive test cases.
 
 > Testing is not only a technical activity. It also needs to be properly planned, managed, estimated, monitored and controlled.
 
