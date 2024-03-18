@@ -5,7 +5,7 @@ aliases:
 ---
 
 
-[[Equivalence Partitioning]] is a test case design technique where test cases are designed to execute representatives from equivalence classes. 
+[Equivalence Partitioning](.md) is a test case design technique where test cases are designed to execute representatives from equivalence classes. 
 
 ---
 
