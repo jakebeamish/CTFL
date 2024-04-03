@@ -5,7 +5,7 @@ aliases:
 ---
 
 
-[[Decision Table Testing]] is a technique for testing things where multiple input conditions yield a variety of outputs.
+[Decision Table Testing](Decision%20Table%20Testing.md) is a technique for testing things where multiple input conditions yield a variety of outputs.
 
 For example, imagine an image upload form where a user can upload images that are in .jpg format, 500x500px in size, and less than 2MB.
 
@@ -21,7 +21,7 @@ The number of cases in a full decision table is $2^n$, where $n$ is the number o
 
 
 
-> Decision tables are used for [[testing]] the implementation of system requirements that specify how different combinations of conditions result in different outcomes. Decision tables are an effective way of recording complex logic, such as business rules.
+> Decision tables are used for [Testing](Testing.md) the implementation of system requirements that specify how different combinations of conditions result in different outcomes. Decision tables are an effective way of recording complex logic, such as business rules.
 > 
 > When creating decision tables, the conditions and the resulting actions of the system are defined. These form the rows of the table. Each column corresponds to a decision rule that defines a unique combination of conditions, along with the associated actions. In limited-entry decision tables all the values of the conditions and actions (except for irrelevant or infeasible ones; see below) are shown as Boolean values (true or false).
 > 
