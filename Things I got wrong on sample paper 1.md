@@ -3,13 +3,13 @@
 
 ---
 
-| Test management terms | Activity descriptions                         |
-| --------------------- | --------------------------------------------- |
-| [Test control](Test%20control.md)      | Re-allocation of resources when tests overrun |
-| [Test monitoring](Test%20monitoring.md)   | Report on deviation from test plan            |
-| Test estimation       | Calculation of required test resources        |
-| Incident management   | Tracking of anomalous test results            |
-| Configuration control | Maintenance of record of test results         |
+| Test management terms                   | Activity descriptions                         |
+| --------------------------------------- | --------------------------------------------- |
+| [Test control](Test%20control.md)       | Re-allocation of resources when tests overrun |
+| [Test monitoring](Test%20monitoring.md) | Report on deviation from test plan            |
+| Test estimation                         | Calculation of required test resources        |
+| Incident management                     | Tracking of anomalous test results            |
+| Configuration control                   | Maintenance of record of test results         |
 
 ---
 

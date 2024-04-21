@@ -1,0 +1,42 @@
+# ISTQB CTFL Sample paper II
+
+1C
+2D x C
+3C x D
+4D
+5B x C
+6C x A
+7B
+8A
+9A x C
+10D
+11A x B
+12D x B
+13  x D
+14C x
+15D
+16C
+17A x B
+18D x C
+19C x B
+20A
+21  x A
+22D
+23B x A
+24D
+25A
+26A
+27C
+28C x B
+29D
+30B x C
+31B
+32A
+33A x D
+34A
+35C x B
+36B
+37C?
+38C
+39B
+40B x A
